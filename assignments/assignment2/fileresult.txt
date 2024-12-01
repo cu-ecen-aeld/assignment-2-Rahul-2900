@@ -1,0 +1,2 @@
+make: 'writer' is up to date.
+writer: ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=61e2638b8b9a936702c18216acb1299ab304659f, not stripped
